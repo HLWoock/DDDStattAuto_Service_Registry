@@ -1,0 +1,8 @@
+management:
+  port: 9000
+  security:
+    enabled: false
+endpoints:
+  enabled: false
+  info:
+    enabled: true

@@ -1,4 +1,4 @@
-package de.woock.ddd.stattauto.registry;
+package de.oose.ddd.stattauto.registry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
